@@ -1,6 +1,17 @@
-district,nonlearner,learner
-Hartford,15656,4111
-New Haven,17730,3534
-Stamford,14003,2050
-Bridgeport,16942,3630
-Waterbury,16027,2820
+"platform","month","usage_cnt"
+"Hyread","06-2000","400"
+"Hyread","07-2000","200"
+"accanesthesiology","06-2000","10"
+"accanesthesiology","07-2000","20"
+"accesssurgery","06-2000","10"
+"accesssurgery","07-2000","30"
+"accmedicine","06-2000","246"
+"accmedicine","07-2000","123"
+"aip","06-2000","1300"
+"aip","07-2000","600"
+"apabi-ebook","06-2000","1400"
+"apabi-ebook","07-2000","760"
+"chant","06-2000","10"
+"chant","07-2000","10"
+"dbpia","06-2000","100"
+"dbpia","07-2000","70"
